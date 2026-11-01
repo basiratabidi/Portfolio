@@ -1,24 +1,22 @@
+# Portfolio
 
- Hi, I'm Basirat 👋
+My personal portfolio website, built with React and Framer Motion.
 
-6th Semester Computer Science Student at SZABIST  
-MERN Stack Developer | DevOps Learner  
+## Tech stack
 
-About Me
-- Passionate about software and web development
-- Learning DevOps and modern development workflows
-- Building projects and sharing coding knowledge
+React, Framer Motion, React Icons, Create React App
 
-Tech Stack
-- JavaScript
-- MongoDB
-- Express.js
-- React
-- Node.js
-- Git & GitHub
+## Run it locally
 
-Open to
-- Internships
-- Collaborations
- 
-server link : http://localhost:4000
+```bash
+npm install
+npm start
+```
+
+Opens at http://localhost:3000.
+
+## About me
+
+Final-year Computer Science student at SZABIST, Karachi. Former Software Engineering Intern at TeReSol. I work on MERN apps, Java/Quarkus backends, DevOps pipelines and AI agents.
+
+More on my [GitHub profile](https://github.com/basiratabidi).
